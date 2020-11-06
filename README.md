@@ -45,5 +45,11 @@ At the end this jupyter notebook  have:
 [![](Img/1.png)]()    
 
 
+## VacationPy
+
+In this part a heat map was displayed showing the humidity for every city 
+
+[![](Img/2.png)]()   
+
 
 
