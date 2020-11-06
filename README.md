@@ -36,6 +36,7 @@ Southern Hemisphere - Cloudiness (%) vs. Latitude
 Northern Hemisphere - Wind Speed (mph) vs. Latitude
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
+
 At the end this jupyter notebook  have:
 - A selection of randomly 500 unique (non-repeat) cities based on latitude and longitude.
 - A weather check on each of the cities using a series of successive API calls.
