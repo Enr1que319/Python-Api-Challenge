@@ -47,7 +47,9 @@ At the end this jupyter notebook  have:
 
 ## VacationPy
 
-In this part a heat map was displayed showing the humidity for every city 
+In this part a heat map was displayed showing the humidity for every city.
+
+At the end it shows a plot showing the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 [![](Img/2.png)]()   
 
