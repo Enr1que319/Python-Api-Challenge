@@ -42,7 +42,7 @@ At the end this jupyter notebook  have:
 - A print log of each city as it's being processed with the city number and city name.
 - A PNG image for each scatter plot.
 
-[![](Img/1.jpg)]()    
+[![](Img/1.png)]()    
 
 
 
