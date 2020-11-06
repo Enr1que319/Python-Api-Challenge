@@ -8,7 +8,7 @@ In this project the climate was thoroughly analyzed in order to find patterns. T
 - WeatherPy
 - VacationPy
 
-Each project have the conclusions in the jupyter notebooks
+Each chart of each project have the conclusions in the jupyter notebooks
 
 ## Data
 
